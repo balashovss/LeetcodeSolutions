@@ -30,5 +30,5 @@ int main() {
         printf("%d ",sumIndices[i]);
     }
     free(sumIndices);
-
+    return 0;
 }
